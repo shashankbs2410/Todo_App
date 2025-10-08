@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css?family=Poppins:400,700,900");
+
 .items {
   width: 50%;
   background-color: white;
@@ -121,4 +123,3 @@
   color: red;
 }
 
-@import url("https://fonts.googleapis.com/css?family=Poppins:400,700,900"); ;
