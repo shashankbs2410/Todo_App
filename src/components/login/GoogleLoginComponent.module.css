@@ -1,0 +1,50 @@
+.login_button {
+  background-color: black;
+  height: 300px;
+  width: 600px;
+  position: absolute;
+  top: 20%;
+  left: 50%;
+  transform: translateX(-50%);
+  border-radius: 10px;
+  font-family: "Poppins", "Calibri", Arial, Helvetica, sans-serif;
+  color: white;
+}
+
+.sign_in {
+  position: absolute;
+  top: 40%;
+  left: 50%;
+  text-align: center;
+  transform: translate(-50%, -50%);
+}
+
+.logout_button {
+  position: absolute;
+  right: 100px;
+  top: 20px;
+  height: 40px;
+  width: 150px;
+  color: white;
+  background-color: rgba(0, 0, 0, 0.2);
+  font-family: "Poppins", Arial, Helvetica, sans-serif;
+  text-align: right;
+  border: none;
+  font-size: 14px;
+  border-radius: 5px;
+  padding-right: 35px;
+}
+
+.logout_button:hover {
+  cursor: pointer;
+  opacity: 0.8;
+}
+
+.google_logo {
+  height: 20px;
+  margin: auto 15px;
+  position: absolute;
+  left: 15px;
+}
+
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap");

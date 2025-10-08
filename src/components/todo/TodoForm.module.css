@@ -1,0 +1,79 @@
+.form {
+  width: 60%;
+  text-align: center;
+  background-color: white;
+  padding: 10px;
+  border-radius: 5px;
+  margin: 10px auto 10px auto;
+  box-shadow: 5px 5px 5px 5px rgba(0, 0, 0, 0.2);
+}
+
+.form button {
+  margin: 10px auto;
+  display: block;
+  text-align: center;
+  background-color: #f7901d;
+  border: black;
+  padding: 10px;
+  border-radius: 5px;
+  font-weight: bold;
+  font-size: 16px;
+  font-family: "Poppins", "Calibri", Arial, Helvetica, sans-serif;
+  box-shadow: 3px;
+  cursor: pointer;
+  box-shadow: 1px 1px rgba(0, 0, 0, 0.2);
+}
+
+.form button:hover {
+  opacity: 0.9;
+}
+
+.form button:active {
+  box-shadow: 3px 3px rgba(0, 0, 0, 0.2);
+}
+
+.form label {
+  display: block;
+  padding: 5px;
+  font-weight: bold;
+  font-family: "Poppins", "Calibri", Arial, Helvetica, sans-serif;
+  font-size: 18px;
+}
+
+.form input {
+  width: 70%;
+  height: 20px;
+  border-radius: 5px;
+  border-width: 1px;
+  padding: 5px 5px;
+  font-size: 14px;
+  font-family: "Poppins", "Calibri", Arial, Helvetica, sans-serif;
+}
+
+.input_error {
+  border-color: red;
+  background-color: lightsalmon;
+}
+
+.form_error {
+  font-family: "Poppins", "Calibri", Arial, Helvetica, sans-serif;
+  color: red;
+}
+
+header {
+  width: 100%;
+  background-color: black;
+  height: 75px;
+}
+
+.name{
+  font-family: "Poppins", "Calibri", Arial, Helvetica, sans-serif;
+  color: white;
+  position: absolute;
+  top: 20px;
+  left: 100px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
