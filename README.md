@@ -6,6 +6,10 @@ Download all the file from this repository and move to same in the terminal
 
 In the project directory, you can run:
 
+### `npm install`
+
+And then run
+
 ### `npm start`
 
 Runs the app in the development mode.\
