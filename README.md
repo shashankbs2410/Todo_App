@@ -1,4 +1,4 @@
-# 01_todo_lists
+# Todo_Lists
 
 Download all the file from this repository and move to same in the terminal
 
